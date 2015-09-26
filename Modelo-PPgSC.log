@@ -1,16 +1,18 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.22)  22 SEP 2015 18:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.22)  25 SEP 2015 23:05
 entering extended mode
-**Modelo-PPgSC.tex
-(Modelo-PPgSC.tex
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Modelo-PPgSC.tex
+(./Modelo-PPgSC.tex
 LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 69 languages loaded.
-(abnt.cls (cvs-id.def)
+Babel <3.9m> and hyphenation patterns for 21 languages loaded.
+(./abnt.cls (./cvs-id.def)
 Document Class: abnt 2004/11/02 v1.27.2.1 Classe abnt (NBR6024, NBR6027, NBR602
 8, NBR14724)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count79
 \calc@Bcount=\count80
@@ -23,7 +25,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count81
 \calc@Cskip=\skip43
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \c@tracingmulticols=\count82
 \mult@box=\box26
@@ -72,9 +74,9 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \colbreak@box=\box51
 \mc@col@check@num=\count90
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+(c:/texlive/2015/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+(c:/texlive/2015/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count91
@@ -89,7 +91,7 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip46
 \belowcaptionskip=\skip47
 \bibindent=\dimen113
-) (setspace.sty
+) (./setspace.sty
 Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
 
 Package: `setspace' 6.7 <2000/12/01>
@@ -98,22 +100,16 @@ Package: `setspace' 6.7 <2000/12/01>
 \ABNTsignwidth=\skip49
 \ABNTsignthickness=\skip50
 \ABNTsignskip=\skip51
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+ (c:/texlive/2015/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+(c:/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2015/08/03 3.9m The Babel package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf"
+(c:/texlive/2015/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+(c:/texlive/2015/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2015/08/03 3.9m Babel common definitions
 \babel@savecnt=\count100
 \U@D=\dimen114
@@ -121,27 +117,27 @@ File: babel.def 2015/08/03 3.9m Babel common definitions
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latin1.def"
+(c:/texlive/2015/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2015/03/17 v1.2c Input encoding file
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+(c:/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) (dsfont.sty
+)) (./dsfont.sty
 Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks16
 \symAMSa=\mathgroup4
@@ -149,24 +145,24 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen115
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen116
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count101
@@ -206,22 +202,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
-)
-(multirow.sty
+) (./multirow.sty
 \bigstrutjot=\dimen124
-) (abntcite.sty (cvs-id.def)
+)
+(./abntcite.sty (./cvs-id.def)
 Package: abntcite 2003/10/13 v1.26 Chamadas de referencias no texto (NBR10520)
- (abntex-abrev.sty (cvs-id.def)
+ (./abntex-abrev.sty (./cvs-id.def)
 Package: abntex-abrev 2003/10/13 v1.3 Abreviacoes
 
-(nbr10522-1988.def (cvs-id.def)
+(./nbr10522-1988.def (./cvs-id.def)
 File: nbr10522-1988.def 2003/10/13 v1.2 Abreviacoes bibliograficas (NBR10522:19
 88)
-) (abntex-abrev-pt_BR.def (cvs-id.def)
+) (./abntex-abrev-pt_BR.def (./cvs-id.def)
 File: abntex-abrev-pt_BR.def 2003/10/13 v1.2 definicao de abntex-abrev, traduca
 o de termos en_US/pt_BR
-))
-(nbr10520-2002.def (cvs-id.def)
+)) (./nbr10520-2002.def (./cvs-id.def)
 File: nbr10520-2002.def 2003/10/13 v1.2 Definicoes para abntcite (NBR10520:2002
 )
 )
@@ -229,59 +224,55 @@ File: nbr10520-2002.def 2003/10/13 v1.2 Definicoes para abntcite (NBR10520:2002
 \ABCIauxlen=\skip56
 \c@ABCIaux=\count113
 \c@ABCImax=\count114
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
-Package: relsize 2003/07/04 ver 3.1
-)
 \biblabelsep=\skip57
 LaTeX Info: Redefining \newblock on input line 562.
 LaTeX Info: Redefining \cite on input line 589.
 \ABCItoken=\toks22
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(c:/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count115
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 94.
 )
 \Gin@req@height=\dimen125
 \Gin@req@width=\dimen126
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen127
 \extrarowheight=\dimen128
@@ -292,17 +283,17 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \everycr=\toks25
 \minrowclearance=\skip60
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (abnt-alf.sty
+) (./abnt-alf.sty
 Package: abnt-alf 2002/06/24
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count116
 \float@exts=\toks26
@@ -313,7 +304,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@every@algorithm=\toks28
 \c@algorithm=\count117
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/algorithms/algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \c@ALC@unique=\count118
 \c@ALC@line=\count119
@@ -322,12 +313,16 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \ALC@tlm=\skip61
 \algorithmicindent=\skip62
 )
-(Modelo-PPgSC.aux (Includes/Capa.aux) (Includes/FolhaRosto.aux)
-(Includes/FolhaAprovacao.aux) (Includes/Dedicatoria.aux)
-(Includes/Agradecimentos.aux) (Includes/Epigrafe.aux) (Includes/Resumo.aux)
-(Includes/Abstract.aux) (Capitulos/Introducao.aux) (Capitulos/Capitulo2.aux)
-(Capitulos/Capitulo3.aux) (Capitulos/Capitulo4.aux) (Capitulos/Capitulo5.aux)
-(Capitulos/Consideracoes.aux) (Capitulos/ApendiceA.aux) (Capitulos/AnexoA.aux))
+(./Modelo-PPgSC.aux (./Includes/Capa.aux) (./Includes/FolhaRosto.aux)
+(./Includes/FolhaAprovacao.aux) (./Includes/Dedicatoria.aux)
+(./Includes/Agradecimentos.aux) (./Includes/Epigrafe.aux)
+(./Includes/Resumo.aux) (./Includes/Abstract.aux) (./Capitulos/Introducao.aux)
+(./Capitulos/Capitulo2.aux) (./Capitulos/Capitulo3.aux)
+(./Capitulos/Capitulo4.aux) (./Capitulos/Capitulo5.aux)
+(./Capitulos/Consideracoes.aux) (./Capitulos/ApendiceA.aux)
+(./Capitulos/AnexoA.aux))
+\openout1 = `Modelo-PPgSC.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
@@ -340,7 +335,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+(c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count122
 \scratchdimen=\dimen129
@@ -353,7 +349,58 @@ LaTeX Font Info:    ... okay on input line 97.
 \MPnumerator=\count126
 \makeMPintoPDFobject=\count127
 \everyMPtoPDFconversion=\toks30
-) (Includes/Capa.tex <Imagens/Brasao-UFRN.jpg, id=1, 49.6254pt x 57.3342pt>
+) (c:/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\openout2 = `Includes/Capa.aux'.
+
+
+(./Includes/Capa.tex <Imagens/Brasao-UFRN.jpg, id=1, 49.6254pt x 57.3342pt>
 File: Imagens/Brasao-UFRN.jpg Graphic file (type jpg)
 
 <use Imagens/Brasao-UFRN.jpg>
@@ -361,12 +408,12 @@ Package pdftex.def Info: Imagens/Brasao-UFRN.jpg used on input line 14.
 (pdftex.def)             Requested size: 64.01851pt x 76.2605pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 16.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <Imagens/Logotipo-DIMAp.png, id=2, 461.65785pt x 376.09404pt>
@@ -383,8 +430,11 @@ Overfull \hbox (6.25568pt too wide) in paragraph at lines 31--32
 [1
 
 
-{C:/Users/Arthur/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagens/
-Brasao-UFRN.jpg> <./Imagens/Logotipo-DIMAp.png>]) (Includes/FolhaRosto.tex
+{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Imagens/Brasa
+o-UFRN.jpg> <./Imagens/Logotipo-DIMAp.png>])
+\openout2 = `Includes/FolhaRosto.aux'.
+
+ (./Includes/FolhaRosto.tex
 Underfull \hbox (badness 1122) in paragraph at lines 27--27
 \T1/cmr/m/n/12 grama de Pós-Graduação em Sis-te-mas e
  []
@@ -392,70 +442,104 @@ Underfull \hbox (badness 1122) in paragraph at lines 27--27
 [1
 
 
-]) (Includes/FolhaAprovacao.tex [2
+])
+\openout2 = `Includes/FolhaAprovacao.aux'.
+
+ (./Includes/FolhaAprovacao.tex [2
 
 
 
-]) (Includes/Dedicatoria.tex) [3
+])
+\openout2 = `Includes/Dedicatoria.aux'.
 
+ (./Includes/Dedicatoria.tex) [3
 
-
-
-]
-(Includes/Agradecimentos.tex) [4
-
-
-
-] (Includes/Epigrafe.tex) [5
 
 
 
 ]
-(Includes/Resumo.tex) [6
+\openout2 = `Includes/Agradecimentos.aux'.
 
 
-] (Includes/Abstract.tex) [7
+(./Includes/Agradecimentos.tex) [4
 
 
-] (Modelo-PPgSC.lof)
+
+]
+\openout2 = `Includes/Epigrafe.aux'.
+
+ (./Includes/Epigrafe.tex) [5
+
+
+
+]
+\openout2 = `Includes/Resumo.aux'.
+
+
+(./Includes/Resumo.tex) [6
+
+
+]
+\openout2 = `Includes/Abstract.aux'.
+
+ (./Includes/Abstract.tex) [7
+
+
+] (./Modelo-PPgSC.lof)
 \tf@lof=\write3
+\openout3 = `Modelo-PPgSC.lof'.
+
 
 [8
 
 
-] (Modelo-PPgSC.lot)
+] (./Modelo-PPgSC.lot)
 \tf@lot=\write4
+\openout4 = `Modelo-PPgSC.lot'.
+
  [9
 
-] (Modelo-PPgSC.loab)
+] (./Modelo-PPgSC.loab)
 \tf@loab=\write5
+\openout5 = `Modelo-PPgSC.loab'.
+
  [10
 
-] (Modelo-PPgSC.los)
+] (./Modelo-PPgSC.los)
 \tf@los=\write6
- [11
+\openout6 = `Modelo-PPgSC.los'.
 
-]
-(Modelo-PPgSC.toc [12
+
+[11
+
+] (./Modelo-PPgSC.toc [12
 
 ])
 \tf@toc=\write7
- [13] (Capitulos/Introducao.tex
+\openout7 = `Modelo-PPgSC.toc'.
+
+ [13]
+\openout2 = `Capitulos/Introducao.aux'.
+
+ (./Capitulos/Introducao.tex
 Cap\'{\i }tulo 1.
 ) [14
 
 
 
-] (Capitulos/Capitulo2.tex
+]
+\openout2 = `Capitulos/Capitulo2.aux'.
+
+ (./Capitulos/Capitulo2.tex
 Cap\'{\i }tulo 2.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 9.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+(c:/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
 
-<Imagens/FiguraTeste.png, id=67, 381.67593pt x 192.72pt>
+<Imagens/FiguraTeste.png, id=68, 381.67593pt x 192.72pt>
 File: Imagens/FiguraTeste.png Graphic file (type png)
 
 <use Imagens/FiguraTeste.png>
@@ -463,13 +547,16 @@ Package pdftex.def Info: Imagens/FiguraTeste.png used on input line 23.
 (pdftex.def)             Requested size: 286.25624pt x 144.53963pt.
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 24.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
+(c:/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) [15
 
 
 
-]) [16 <./Imagens/FiguraTeste.png>] (Capitulos/Capitulo3.tex
+]) [16 <./Imagens/FiguraTeste.png>]
+\openout2 = `Capitulos/Capitulo3.aux'.
+
+ (./Capitulos/Capitulo3.tex
 Cap\'{\i }tulo 3.
 [17
 
@@ -485,39 +572,52 @@ Underfull \hbox (badness 2213) in paragraph at lines 37--38
 \T1/cmr/m/n/12 que re-quer mais de
  []
 
-[18]) [19] (Capitulos/Capitulo4.tex
+[18]) [19]
+\openout2 = `Capitulos/Capitulo4.aux'.
+
+ (./Capitulos/Capitulo4.tex
 Cap\'{\i }tulo 4.
 ) [20
 
 
 
-] (Capitulos/Capitulo5.tex
+]
+\openout2 = `Capitulos/Capitulo5.aux'.
+
+ (./Capitulos/Capitulo5.tex
 Cap\'{\i }tulo 5.
 [21
 
 
 
-]) [22] (Capitulos/Consideracoes.tex
+]) [22]
+\openout2 = `Capitulos/Consideracoes.aux'.
+
+ (./Capitulos/Consideracoes.tex
 Cap\'{\i }tulo 6.
 ) [23
 
 
 
-] (Modelo-PPgSC.bbl
+] (./Modelo-PPgSC.bbl
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 61.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+ (c:/texlive/2015/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )) [24
 
 
 ]
-(Capitulos/ApendiceA.tex
+\openout2 = `Capitulos/ApendiceA.aux'.
+
+ (./Capitulos/ApendiceA.tex
 Apendice A.
 ) [25
 
 
-] (Capitulos/AnexoA.tex
+]
+\openout2 = `Capitulos/AnexoA.aux'.
+
+ (./Capitulos/AnexoA.tex
 Anexo A.
 ) [26
 
@@ -528,47 +628,48 @@ Anexo A.
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
-(Modelo-PPgSC.aux (Includes/Capa.aux) (Includes/FolhaRosto.aux)
-(Includes/FolhaAprovacao.aux) (Includes/Dedicatoria.aux)
-(Includes/Agradecimentos.aux) (Includes/Epigrafe.aux) (Includes/Resumo.aux)
-(Includes/Abstract.aux) (Capitulos/Introducao.aux) (Capitulos/Capitulo2.aux)
-(Capitulos/Capitulo3.aux) (Capitulos/Capitulo4.aux) (Capitulos/Capitulo5.aux)
-(Capitulos/Consideracoes.aux) (Capitulos/ApendiceA.aux) (Capitulos/AnexoA.aux))
- ) 
+(./Modelo-PPgSC.aux (./Includes/Capa.aux) (./Includes/FolhaRosto.aux)
+(./Includes/FolhaAprovacao.aux) (./Includes/Dedicatoria.aux)
+(./Includes/Agradecimentos.aux) (./Includes/Epigrafe.aux)
+(./Includes/Resumo.aux) (./Includes/Abstract.aux) (./Capitulos/Introducao.aux)
+(./Capitulos/Capitulo2.aux) (./Capitulos/Capitulo3.aux)
+(./Capitulos/Capitulo4.aux) (./Capitulos/Capitulo5.aux)
+(./Capitulos/Consideracoes.aux) (./Capitulos/ApendiceA.aux)
+(./Capitulos/AnexoA.aux)) ) 
 Here is how much of TeX's memory you used:
- 4371 strings out of 493673
- 57425 string characters out of 3141527
- 129831 words of memory out of 3000000
- 7435 multiletter control sequences out of 15000+200000
- 34500 words of font info for 94 fonts, out of 3000000 for 9000
- 1027 hyphenation exceptions out of 8191
- 34i,13n,26p,1025b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Arthur\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\ectt1200.pk> <C:\Users\Arthur\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
-n\ec\dpi600\ecrm0700.pk> <C:\Users\Arthur\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Arthur\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk> <C:\Users\Arthur\AppData\Local\M
-iKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Arthur\AppD
-ata\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc1728.pk> <C:\Users\
-Arthur\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk>
- <C:\Users\Arthur\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
-crm1000.pk> <C:\Users\Arthur\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm1095.pk> <C:\Users\Arthur\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
-r\jknappen\ec\dpi600\eccc1200.pk> <C:\Users\Arthur\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\Arthur\AppData\Local\MiK
-TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\Arthur\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\Ar
-thur\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <
-C:\Users\Arthur\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecb
-x1440.pk> <C:\Users\Arthur\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
-\dpi600\ecbx2074.pk> <C:\Users\Arthur\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi600\eccc1095.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb>
-Output written on Modelo-PPgSC.pdf (27 pages, 594754 bytes).
+ 4673 strings out of 494503
+ 62498 string characters out of 6169371
+ 135695 words of memory out of 5000000
+ 7644 multiletter control sequences out of 15000+600000
+ 34500 words of font info for 94 fonts, out of 8000000 for 9000
+ 321 hyphenation exceptions out of 8191
+ 38i,13n,26p,1027b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <c:/Users/Arthur/.texlive2015/texmf-var/fonts/pk/lj
+four/jknappen/ec/ectt1200.600pk> <c:/Users/Arthur/.texlive2015/texmf-var/fonts/
+pk/ljfour/jknappen/ec/ecrm0700.600pk> <c:/Users/Arthur/.texlive2015/texmf-var/f
+onts/pk/ljfour/jknappen/ec/ecrm0800.600pk> <c:/Users/Arthur/.texlive2015/texmf-
+var/fonts/pk/ljfour/jknappen/ec/ecss1200.600pk> <c:/Users/Arthur/.texlive2015/t
+exmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> <c:/Users/Arthur/.texlive2
+015/texmf-var/fonts/pk/ljfour/jknappen/ec/ecxc1728.600pk> <c:/Users/Arthur/.tex
+live2015/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> <c:/Users/Arthur
+/.texlive2015/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> <c:/Users/A
+rthur/.texlive2015/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> <c:/Us
+ers/Arthur/.texlive2015/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1200.600pk> <
+c:/Users/Arthur/.texlive2015/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600
+pk> <c:/Users/Arthur/.texlive2015/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti120
+0.600pk> <c:/Users/Arthur/.texlive2015/texmf-var/fonts/pk/ljfour/jknappen/ec/ec
+bx1728.600pk> <c:/Users/Arthur/.texlive2015/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm1200.600pk> <c:/Users/Arthur/.texlive2015/texmf-var/fonts/pk/ljfour/jkna
+ppen/ec/ecbx1440.600pk> <c:/Users/Arthur/.texlive2015/texmf-var/fonts/pk/ljfour
+/jknappen/ec/ecbx2074.600pk> <c:/Users/Arthur/.texlive2015/texmf-var/fonts/pk/l
+jfour/jknappen/ec/eccc1095.600pk><c:/texlive/2015/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb>
+Output written on Modelo-PPgSC.pdf (27 pages, 552747 bytes).
 PDF statistics:
- 717 PDF objects out of 1000 (max. 8388607)
+ 707 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
